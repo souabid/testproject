@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Selenium-Webdriver-3.12.0/byte-buddy-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Selenium-Webdriver-3.12.0/client-combined-3.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Selenium-Webdriver-3.12.0/client-combined-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Cucumber/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/poi/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Selenium-Webdriver-3.12.0/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/poi/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Selenium-Webdriver-3.12.0/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/poi/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Selenium-Webdriver-3.12.0/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Cucumber/cucumber-core-2.4.0 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Cucumber/cucumber-java-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Cucumber/cucumber-junit-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Cucumber/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Cucumber/cucumber-reporting-3.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/poi/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Cucumber/gherkin-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Selenium-Webdriver-3.12.0/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Selenium-Webdriver-3.12.0/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Selenium-Webdriver-3.12.0/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Selenium-Webdriver-3.12.0/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Cucumber/junit-3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/poi/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/poi/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Cucumber/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Selenium-Webdriver-3.12.0/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/Selenium-Webdriver-3.12.0/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/poi/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/poi/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/poi/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/poi/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/poi/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/poi/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abids/eclipse-workspace/testproject/src/tests/Resources/poi/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
