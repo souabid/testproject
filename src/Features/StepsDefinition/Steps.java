@@ -49,44 +49,6 @@ public class Steps {
 		}
 	}
 
-	/*
-	 * Créer une carte
-	 * Vérifier que la carte a bien été créée
-	 */
-	@When("^Je cree une carte (.*)$")
-	public void je_cree_ma_carte(String name) {
-		try {
-			Thread.sleep(2000);
-		    page.creationCarte(name);	
-			page.verifierCreationCarte();
-
-		} catch (InterruptedException e) {
-			e.printStackTrace();
-		}
-	}
-	
-	// Drag and drop la carte créée dans une autre colonne
-	@When("^Je drag and drop la carte generee dans une autre colonne$")
-	public void drag_and_drop_ma_carte() throws InterruptedException {
-		page.dragAndDrop();
-	}
-	
-	/*  Ouvrir la carte créée
-	 * Uploader un document (bloc "Document(s)") 
-	 * */
-	@When("^ouvrir la carte creee et uploader un document via le path (.*)$")
-	public void uploader_un_document(String filepath) throws InterruptedException {
-		page.OpenCart();
-		page.uploadDocument(filepath);
-	}
-	
-	//Vérifier que le document est bien uploadé
-	
-	@Then("^Je verifie que le document (.*) est bien uploade$")
-	public void je_verifie_l_upload(String filename) throws InterruptedException {
-	    page.verifierUpload(filename);
-	    page.fermerPopin();
-	}
 	
 	//Fermer la session
 	@Then("^Je ferme ma session$")
